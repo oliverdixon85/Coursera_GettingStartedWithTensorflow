@@ -1,8 +1,11 @@
 ## Uploaded coursework from the Coursera Deep Learning Specialization on Tensorflow 2 from Imperial College London.  https://www.coursera.org/specializations/tensorflow2-deeplearning
 
 Skills covered:
+
 -The Sequential API
+
 -Validation, Regulation, Callbacks
+
 -Saving and Loading Models 
 
 Also includes a Capstone Project 
